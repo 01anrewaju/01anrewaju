@@ -57,16 +57,6 @@ I build machine learning models and data pipelines that turn large geospatial an
 | [**Geo ETL Pipeline**](https://github.com/YOUR_USERNAME/REPO) | Automated pipeline that ingests, cleans and loads geographic data into PostGIS | Python, PostgreSQL, PostGIS |
 | [**Geospatial Insights Dashboard**](https://github.com/YOUR_USERNAME/REPO) | Interactive Streamlit app that visualizes spatial model outputs for stakeholders | Streamlit, Plotly, Folium |
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top languages" height="160"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
